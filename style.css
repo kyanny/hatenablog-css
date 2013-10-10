@@ -1,0 +1,14 @@
+#main .date {
+    display: block;
+    position: absolute;
+    top: 15px;
+}
+
+h1.entry-title {
+    margin: 0;
+    line-height: 0;
+}
+
+h1#title, #main .date, .entry-header-menu a {
+    font-family: cursive;
+}
