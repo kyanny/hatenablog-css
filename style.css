@@ -12,3 +12,7 @@ h1.entry-title {
 h1#title, #main .date, .entry-header-menu a {
     font-family: cursive;
 }
+
+article li {
+    font-size: smaller;
+}
